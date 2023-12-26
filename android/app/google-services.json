@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198480661373",
+    "project_id": "fir-augest",
+    "storage_bucket": "fir-augest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198480661373:android:8a0386a9da55d03b869a14",
+        "android_client_info": {
+          "package_name": "com.example.authentication_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QHesnIu_jpw0eW-xq2APizSmnzcRwjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198480661373:android:68643b6a1a489f50869a14",
+        "android_client_info": {
+          "package_name": "com.example.firebase_aug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QHesnIu_jpw0eW-xq2APizSmnzcRwjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
